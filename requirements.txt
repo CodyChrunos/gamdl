@@ -6,3 +6,8 @@ pillow
 pywidevine
 pyyaml
 yt-dlp
+fastapi
+mangum
+python-multipart
+gamdl
+ffmpeg
